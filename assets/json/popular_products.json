@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Chinese Side",
+    "description": "Delicious chinese food",
+    "price": 10,
+    "stars": 4,
+    "img": "assets/images/food1.png",
+    "location": "China",
+    "created_at": "2023-01-01 00:00:00",
+    "updated_at": "2023-01-01 00:00:00",
+    "type_id": 0
+  },
+  {
+    "id": 2,
+    "name": "Chinese Side",
+    "description": "Delicious chinese food",
+    "price": 20,
+    "stars": 2,
+    "img": "assets/images/food2.png",
+    "location": "China",
+    "created_at": "2023-01-01 00:00:00",
+    "updated_at": "2023-01-01 00:00:00",
+    "type_id": 0
+  },
+  {
+    "id": 3,
+    "name": "Chinese Side",
+    "description": "Delicious chinese food",
+    "price": 30,
+    "stars": 3,
+    "img": "assets/images/food3.png",
+    "location": "China",
+    "created_at": "2023-01-01 00:00:00",
+    "updated_at": "2023-01-01 00:00:00",
+    "type_id": 0
+  }
+]
+
+
+

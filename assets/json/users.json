@@ -1,0 +1,19 @@
+[
+
+  {
+    "name": "Carles",
+    "email": "carles@example.com",
+    "phone": "0123456789",
+    "password": "password123",
+    "token": "mock_token_carlos_99"
+  },
+  {
+    "name": "Martin",
+    "email": "martin@example.com",
+    "phone": "0123456789",
+    "password": "password123",
+    "token": "mock_token_carlos_99",
+    "phone": "+1987654321",
+    "orderCount": 42
+  }
+]

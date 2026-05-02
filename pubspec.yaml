@@ -1,0 +1,55 @@
+name: delivery_app
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter_launcher_icons: ^0.14.4
+  cupertino_icons: ^1.0.8
+  dots_indicator: ^3.0.0
+  http: ^1.6.0
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  geocoding: ^2.1.0
+  geolocator: ^9.0.2
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  google_maps_flutter: ^2.10.0
+  intl: ^0.19.0
+  persistent_bottom_nav_bar: ^6.2.1
+
+  shared_preferences: ^2.3.0
+  webview_flutter: ^4.8.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/json/
+  #   - images/a_dot_ham.jpeg
+flutter_launcher_icons:
+  android:  "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+  flutter_native_splash:
+    android: true
+    color: "#42a5f5"
+    image: "assets/images/logo.png"
+    branding: "Food Delivery Project"
+    fullscreen: true
+    icon_background_color: "#111111"
+  android_12:
+    color: "d4e4ed"
