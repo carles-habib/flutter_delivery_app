@@ -18,7 +18,7 @@ A high-performance, full-stack delivery application built with **Flutter** and *
 ## 📸 Screenshots
 |                  Profile Page                   |                Sign In                 |                Main Page                |
 |:-----------------------------------------------:|:--------------------------------------:|:---------------------------------------:|
-| ![Account Screen](screenshots/profile-page.png) | ![Login Screen](screenshots/login.png) | ![main Screen](screenshots/login.png) |
+| ![Account Screen](screenshots/profile-page.png) | ![Login Screen](screenshots/login.png) | ![main Screen](screenshots/main-page.png) |
 
 ## 🚀 Getting Started
 
