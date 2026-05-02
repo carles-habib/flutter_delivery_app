@@ -1,7 +1,7 @@
 {
   "id": 1,
   "f_name": "Carles",
-  "email": "test@example.com",
-  "phone": "01012345678",
+  "email": "carles@example.com",
+  "phone": "0123456789",
   "order_count": 42
 }
